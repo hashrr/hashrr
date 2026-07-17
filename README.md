@@ -24,26 +24,27 @@ Cloud Devops Engineer 2 at Amazon Web Services (AWS) with 6+ years of experience
 
 ### AWS
 <div>
-  <img src="/assets/aws-certified-ai-practitioner.png" height=150 width=150> 
-  <img src="/assets/aws-certified-cloud-practitioner.png" height=150 width=150>
-  <img src="/assets/aws-certified-solutions-architect-associate.png" height=150 width=150>
-  <img src="/assets/aws-certified-developer-associate.png" height=150 width=150>
-  <img src="/assets/aws-certified-cloudops-engineer-associate.png" height=150 width=150>
-  <img src="/assets/aws-certified-devops-engineer-professional.png" height=150 width=150>
+  <img src="/assets/aws-certified-ai-practitioner.png" height=100 width=100> 
+  <img src="/assets/aws-certified-cloud-practitioner.png" height=100 width=100>
+  <img src="/assets/aws-certified-solutions-architect-associate.png" height=100 width=100>
+  <img src="/assets/aws-certified-developer-associate.png" height=100 width=100>
+  <img src="/assets/aws-certified-cloudops-engineer-associate.png" height=100 width=100>
+  <img src="/assets/aws-certified-devops-engineer-professional.png" height=100 width=100>
 </div>
 
-### AWS Subject Matter Expert
+<!--### AWS Subject Matter Expert
 
 <div>
-  <img src="/assets/systems-manager-subject-matter-expert.png" height=150 width=150> 
-  <img src="/assets/elasticache-subject-matter-expert.png" height=150 width=150>
-</div>
+  <img src="/assets/systems-manager-subject-matter-expert.png" height=100 width=100> 
+  <img src="/assets/elasticache-subject-matter-expert.png" height=100 width=100>
+</div>-->
 
-### Kubernetes
+### DevOps
 
 <div>
-  <img src="/assets/kcna-kubernetes-and-cloud-native-associate.png" height=150 width=150> 
-  <img src="/assets/kcsa-kubernetes-and-cloud-native-security-associate.png" height=150 width=150>
+  <img src="/assets/kcna-kubernetes-and-cloud-native-associate.png" height=100 width=100> 
+  <img src="/assets/kcsa-kubernetes-and-cloud-native-security-associate.png" height=100 width=100>
+  <img src="/assets/hashicorp-certified-terraform-associate-003.png" height=100 width=100> 
 </div>
 
 ## Peer Feedbacks
