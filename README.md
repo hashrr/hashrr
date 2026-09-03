@@ -18,7 +18,7 @@ Cloud Devops Engineer 2 at Amazon Web Services (AWS) with 6+ years of experience
 | [#48380](https://github.com/hashicorp/terraform-provider-aws/pull/48380) | Adding `network_type` argument for Serverless Caches | v6.51.0 |
 | [#48897](https://github.com/hashicorp/terraform-provider-aws/pull/48897) | Scaffolding for new Lambda Microvms service | N/A |
 | [#48950](https://github.com/hashicorp/terraform-provider-aws/pull/48950) | New Resrouce: Lambda MicroVMs Image | v6.61.0 |
-| [#48984](https://github.com/hashicorp/terraform-provider-aws/pull/48984) | New Resource: `aws_lambdamicrovms_microvm` | Pending Review |
+| [#48984](https://github.com/hashicorp/terraform-provider-aws/pull/48984) | New Resource: `aws_lambdamicrovms_microvm` | v6.63.0 |
 
 ## Certifications
 
