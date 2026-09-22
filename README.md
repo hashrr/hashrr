@@ -42,6 +42,8 @@ Cloud Devops Engineer 2 at Amazon Web Services (AWS) with 6+ years of experience
 ### DevOps
 
 <div>
+  <img src="/assets/cka-certified-kubernetes-administrator.png" height=100 width=100> 
+  <img src="/assets/ckad-certified-kubernetes-application-developer.png" height=100 width=100> 
   <img src="/assets/kcna-kubernetes-and-cloud-native-associate.png" height=100 width=100> 
   <img src="/assets/kcsa-kubernetes-and-cloud-native-security-associate.png" height=100 width=100>
   <img src="/assets/hashicorp-certified-terraform-associate-003.png" height=100 width=100> 
